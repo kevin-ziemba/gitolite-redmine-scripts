@@ -1,0 +1,1 @@
+# gitolite-redmine-scripts
